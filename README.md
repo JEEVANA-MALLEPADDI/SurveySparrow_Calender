@@ -1,6 +1,5 @@
 # SurveySparrow_Calender
-[https://youtu.be/PMIZ0f1T7ds] (demo video)
-[demovideo](url)
+[demovideo]([https://youtu.be/PMIZ0f1T7ds)
 
 A responsive and interactive calendar application built using **React**, **Vite**, and **TailwindCSS**, **dayjs**. This calendar displays the current month by default, supports event scheduling from a static JSON file, and handles overlapping events with visual cues.
 
