@@ -65,5 +65,9 @@ If you want to install specific packages manually, you can run:
 >>npm install @heroicons/react
 >>npm install dayjs
 
+**Run this to start the development server 
+>>npm run dev
+**when  clicked on the local  link. the page is visibly live and running.
+
 
 
