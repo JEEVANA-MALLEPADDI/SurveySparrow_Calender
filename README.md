@@ -42,7 +42,28 @@ A responsive and interactive calendar application built using **React**, **Vite*
 **Frontend:** React, Vite
 **Styling:** TailwindCSS
 **Event Data:** Static JSON file
+**Date Utility:** Day.js
 
+## Getting Started
+
+Follow these steps to set up and run the project locally:
+
+#### 1. Clone the Repository
+
+
+git clone https://github.com/your-username/SurveySparrow_Calendar.git
+cd SurveySparrow_Calendar
+
+#### Installing Dependencies
+
+**Run this command to install all required dependencies listed in the `package.json`:
+>>npm install
+
+If you want to install specific packages manually, you can run:
+
+>>npm install -D tailwindcss @tailwindcss/vite
+>>npm install @heroicons/react
+>>npm install dayjs
 
 
 
