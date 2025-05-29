@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react-swc'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/SurveySparrow_Calender/', 
+  
   plugins: [react(), tailwindcss()],
 })
