@@ -178,6 +178,115 @@
     "endTime": "12:00",
     "color": "#60A5FA",
     "status": "pending"
-  }
+  },
+  {
+  "id": 21,
+  "title": "Daily Standup",
+  "date": "2025-05-29",
+  "startTime": "09:00",
+  "endTime": "09:30",
+  "color": "#EA580C",
+  "status": "pending"
+},
+{
+  "id": 22,
+  "title": "Backend Sync",
+  "date": "2025-05-29",
+  "startTime": "10:00",
+  "endTime": "11:00",
+  "color": "#D6A419",
+  "status": "pending"
+},
+{
+  "id": 23,
+  "title": "UI Testing",
+  "date": "2025-05-29",
+  "startTime": "14:30",
+  "endTime": "15:30",
+  "color": "#4ADE80",
+  "status": "pending"
+},
+{
+  "id": 24,
+  "title": "Stakeholder Review",
+  "date": "2025-05-29",
+  "startTime": "16:00",
+  "endTime": "17:00",
+  "color": "#EC4899",
+  "status": "pending"
+},
+{
+  "id": 25,
+  "title": "Design Sync",
+  "date": "2025-05-30",
+  "startTime": "09:30",
+  "endTime": "10:30",
+  "color": "#60A5FA",
+  "status": "pending"
+},
+{
+  "id": 26,
+  "title": "Product Discussion",
+  "date": "2025-05-30",
+  "startTime": "10:00",
+  "endTime": "11:00",
+  "color": "#EA580C",
+  "status": "pending"
+},
+{
+  "id": 27,
+  "title": "Feature Demo",
+  "date": "2025-05-30",
+  "startTime": "10:30",
+  "endTime": "12:00",
+  "color": "#D6A419",
+  "status": "pending"
+},
+{
+  "id": 28,
+  "title": "Team Wrap-Up",
+  "date": "2025-05-30",
+  "startTime": "17:00",
+  "endTime": "17:30",
+  "color": "#4ADE80",
+  "status": "pending"
+},
+{
+  "id": 29,
+  "title": "Morning Standup",
+  "date": "2025-05-31",
+  "startTime": "09:00",
+  "endTime": "10:45",
+  "color": "#EC4899",
+  "status": "pending"
+},
+{
+  "id": 30,
+  "title": "Client Presentation",
+  "date": "2025-05-31",
+  "startTime": "10:30",
+  "endTime": "13:00",
+  "color": "#60A5FA",
+  "status": "pending"
+},
+{
+  "id": 31,
+  "title": "Database Maintenance",
+  "date": "2025-05-31",
+  "startTime": "13:00",
+  "endTime": "14:30",
+  "color": "#EA580C",
+  "status": "pending"
+},
+{
+  "id": 32,
+  "title": "Weekly Wrap-up",
+  "date": "2025-05-31",
+  "startTime": "13:30",
+  "endTime": "15:00",
+  "color": "#D6A419",
+  "status": "pending"
+}
+
 ]
 
