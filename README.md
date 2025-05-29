@@ -1,6 +1,6 @@
 # SurveySparrow_Calender
 
-[visit page](https://survey-sparrow-calender-git-main-jeevanas-projects-e3782e00.vercel.app)
+[visit page](https://survey-sparrow-calender-git-main-jeevanas-projects-e3782e00.vercel.app/)
 
 
 A responsive and interactive calendar application built using **React**, **Vite**, and **TailwindCSS**, **dayjs**. This calendar displays the current month by default, supports event scheduling from a static JSON file, and handles overlapping events with visual cues.
